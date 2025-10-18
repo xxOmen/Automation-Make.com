@@ -1,6 +1,8 @@
 # Automation-Make.com 🚀
 A Make.com (Integromat) automation that fetches trending topics from Google Trends and IGN RSS feeds, generates SEO-optimized Blogger articles using OpenAI GPT-5-nano, and automatically posts them to Blogger or via email.
 
+<img width="878" height="479" alt="Screenshot 2025-10-18 114457" src="https://github.com/user-attachments/assets/c16e2b2a-4459-4b8e-b69a-4d7922115ca3" />
+
 ## ⚙️ Features
 - Pulls trending data from Google Trends & IGN.
 - Uses GPT-5-nano for content generation.
@@ -21,3 +23,4 @@ A Make.com (Integromat) automation that fetches trending topics from Google Tren
 
 ## 📄 License
 MIT © 2025 YourName
+
