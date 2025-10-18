@@ -22,5 +22,5 @@ A Make.com (Integromat) automation that fetches trending topics from Google Tren
 4. Run the scenario manually or schedule it daily.
 
 ## 📄 License
-MIT © 2025 YourName
+MIT © 2025
 
